@@ -1,0 +1,11 @@
+aws:
+  region: us-east-1
+  s3_bucket: YOUR_BUCKET_NAME_HERE
+  s3_prefix: raw-data/
+  athena_database: premier_league_db
+  athena_output_location: s3://YOUR_BUCKET_NAME_HERE/athena-results/
+
+data:
+  tables:
+    - name: standings
+      file_format: csv
