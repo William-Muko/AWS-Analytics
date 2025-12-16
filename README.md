@@ -15,14 +15,8 @@ This project demonstrates a full data analytics workflow:
 
 *Note: This project uses dummy Premier League data for demonstration purposes.*
 
-## AWS Architecture
-
-### Overview
-This project implements a serverless, cost-effective analytics pipeline using AWS managed services:
-
-```
-CSV Files → Amazon S3 → Amazon Athena → Amazon QuickSight
-```
+## AWS Architecture Flow
+![AWS Architecture Diagram](AWS-Analytics.jpg)
 
 ## Project Structure
 
@@ -213,9 +207,8 @@ ORDER BY win_percentage DESC;
 ## Dashboard Visualizations
 
 📊 **Project Visualizations**
-
-- **Architecture Diagram**: [AWS-Analytics.jpg](AWS-Analytics.jpg)
-- **Dashboard Screenshot**: [Premier-League-Dummy-Dash.jpg](Premier-League-Dummy-Dash.jpg)
+- **Dashboard Screenshot**: 
+![Premier-League-Dummy-Dash.jpg](Premier-League-Dummy-Dash.jpg)
 
 *To export your own dashboard:*
 1. Open your QuickSight dashboard
@@ -247,5 +240,5 @@ ORDER BY win_percentage DESC;
 
 ## License
 
-MIT License
+[MIT License](LICENSE)
 
