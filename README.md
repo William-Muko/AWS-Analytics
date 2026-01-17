@@ -15,6 +15,27 @@ This project demonstrates a full data analytics workflow:
 
 *Note: This project uses dummy Premier League data for demonstration purposes.*
 
+## Technology Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Amazon QuickSight](https://img.shields.io/badge/Amazon%20QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Core Technologies:**
+- **AWS S3**: Object storage for raw CSV data files
+- **Amazon Athena**: Serverless query service for data analysis
+- **Amazon QuickSight**: Business intelligence and visualization
+- **Python**: Automation scripts for setup and data processing
+- **SQL**: Data querying and table creation
+- **YAML**: Configuration management
+- **Bash**: Command-line automation and deployment
+
 ## AWS Architecture Flow
 ![AWS Architecture Diagram](AWS-Analytics.jpg)
 
