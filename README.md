@@ -261,5 +261,5 @@ ORDER BY win_percentage DESC;
 
 ## License
 
-[MIT License](LICENSE)
+[MIT License](LICENSE).
 
